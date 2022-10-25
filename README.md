@@ -1,2 +1,3 @@
 # 42-libft
-https://cdn.intra.42.fr/pdf/pdf/49976/fr.subject.pdf
+
+Vous allez recoder un certain nombre de fonctions de la librairie C standard, ainsi que d'autres fonctions utilitaires.
